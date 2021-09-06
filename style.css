@@ -1,0 +1,41 @@
+/* Vorschlag-Menü von VSCO: Strg/Ctrl + Leertaste */
+
+#title {
+  background-color: LightPink;
+  color: Azure;
+}
+h2 {
+  background-color: #dad8d8;
+  color: #f113f1;
+}
+h3 {
+  background-color: #ebf64d;
+}
+h3:hover {
+  color: hsl(190, 100%, 45%);
+}
+#main-paragraph {
+  background-color: hotpink;
+}
+#candy-links {
+  background-color: hsl(190, 100%, 45%);
+  list-style-type: none;
+}
+#candy-links:hover {
+  background-color: #ebf64d;
+}
+#contact-links {
+  background-color: hsl(190, 100%, 45%);
+  list-style-type: circle;
+}
+.contact {
+  font-weight: bold;
+  color: hsl(180, 100%, 45%);
+}
+#backlink {
+  font-weight: bold;
+  color: #f113f1;
+}
+#contact-links:hover {
+  background-color: LightPink;
+}
